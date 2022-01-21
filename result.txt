@@ -1,0 +1,2 @@
+Before disposing data: 0.8239962116005389
+After disposing data: 0.8425780584712215
